@@ -46,10 +46,6 @@ include('includes/config.php');
 $st=$_SESSION['searchtitle']=$_POST['searchtitle'];
 }
 $st;
-             
-
-
-
 
      if (isset($_GET['pageno'])) {
             $pageno = $_GET['pageno'];
