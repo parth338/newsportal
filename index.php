@@ -28,7 +28,7 @@ include('includes/config.php');
 
     <!-- Navigation -->
    <?php include('includes/header.php');?>
-
+   <?php include('includes/curl.php'); ?>
     <!-- Page Content -->
     <div class="container">
 
